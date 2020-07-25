@@ -1,0 +1,11 @@
+page{background:#eeeeee}.group___RHaon{background:white;margin-bottom:16rpx;border-radius:15rpx;overflow:hidden}.inputCellTitle___12VBC{max-width:90Px;min-width:90Px}
+
+.red___2JeCw{color:red}
+
+
+.fullPage___10TYt{position:absolute;top:0;left:0;width:100vw;min-height:100vh;height:20vh;background:#eeeeee;z-index:10}.confirm___QO5ur{margin-top:16rpx}
+
+.user___3jqq_{display:flex;align-items:center;padding:24rpx;font-size:40rpx;background:white}.avatar___2IAeJ{width:10vw;height:10vw;background:gray;margin-right:32rpx;border-radius:10rpx}.checkbox___1hecJ{margin-right:24rpx}
+
+.inputCellTitle___3APAY{max-width:90Px;min-width:90Px}
+

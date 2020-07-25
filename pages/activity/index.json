@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "index": "/remaxVendors/npm/_vant/weapp/dist/cell/index",
+    "index2": "/remaxVendors/npm/_vant/weapp/dist/icon/index",
+    "index12": "/remaxVendors/npm/_vant/weapp/dist/image/index",
+    "index13": "/remaxVendors/npm/_vant/weapp/dist/loading/index"
+  }
+}

@@ -1,0 +1,8 @@
+page{background:#eeeeee;color:#4a4a4a}.btn___2AMla{position:relative;text-align:center;font-size:30.80rpx;padding:24rpx;color:#0171C2}.btn___2AMla:active:after{content:'';display:block;position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.3)}View.topSpace___2JBIr{border-top:8rpx solid #eee;border-bottom:1rpx solid #eeeeee;color:red}.inputCellTitle___2Xukt{max-width:90Px;min-width:90Px}.group___1x1Co{background:white;margin-bottom:8rpx;border-radius:15rpx;overflow:hidden}
+
+.red___2JeCw{color:red}
+
+.picker___1rY2o{display:flex;justify-content:center;align-items:center;background:gray;width:100vw;height:430rpx;color:white;font-size:34rpx}.banner___8bmY4{position:absolute;width:100%;height:100%}.option___2bJP1{padding:24rpx;font-size:34rpx;text-align:center}
+
+.banner___1lAuA{width:100%;height:430rpx;box-shadow:0 1rpx 5rpx 0 rgba(45,47,51,0.1)}.noSrc___p6SgB{display:flex;justify-content:center;align-items:center;height:100%;font-size:34rpx;background:white}.noSrc___p6SgB text{margin-left:24rpx;color:#4a4a4a}
+

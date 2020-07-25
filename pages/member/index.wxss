@@ -1,0 +1,4 @@
+page{background:#eeeeee;color:#666}.user___3FK4e{display:flex;align-items:center;padding:24rpx;font-size:40rpx}.avatar___3bXPn{width:10vw;height:10vw;background:gray;margin:0 32rpx;border-radius:10rpx}.noMember___3BsbW{display:flex;justify-content:center;align-items:center;height:100vh;font-size:34rpx;text-align:center}.noMember___3BsbW text{margin-left:24rpx}
+
+.user___3jqq_{display:flex;align-items:center;padding:24rpx;font-size:40rpx;background:white}.avatar___2IAeJ{width:10vw;height:10vw;background:gray;margin-right:32rpx;border-radius:10rpx}.checkbox___1hecJ{margin-right:24rpx}
+

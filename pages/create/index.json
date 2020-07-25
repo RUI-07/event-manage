@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "index": "/remaxVendors/npm/_vant/weapp/dist/cell/index",
+    "index0": "/remaxVendors/npm/_vant/weapp/dist/switch/index",
+    "index1": "/remaxVendors/npm/_vant/weapp/dist/stepper/index",
+    "index2": "/remaxVendors/npm/_vant/weapp/dist/icon/index",
+    "index6": "/remaxVendors/npm/_vant/weapp/dist/popup/index",
+    "index7": "/remaxVendors/npm/_vant/weapp/dist/datetime-picker/index",
+    "index12": "/remaxVendors/npm/_vant/weapp/dist/image/index",
+    "index13": "/remaxVendors/npm/_vant/weapp/dist/loading/index"
+  }
+}
